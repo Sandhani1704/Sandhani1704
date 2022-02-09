@@ -10,8 +10,7 @@ I create adaptive responsive single-page cross-browser web applications.<br>
 <img align="left" alt="CSS3" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="60px" src="https://user-images.githubusercontent.com/58632996/126033521-08a4c2cd-96b8-47a6-9516-adcd596bf99d.png" />
 <img align="left" alt="React" width="65px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="65px" src="https://user-images.githubusercontent.com/58632996/126033502-eaf4d8d6-722e-4a18-924f-cdd30bd98d8a.png" />
-<img align="left" alt="GitHub" width="65px" src="https://user-images.githubusercontent.com/58632996/125980781-d353f38c-479e-47d0-9adb-62125bf6c10e.png" />
+<img align="left" alt="Redux" width="65px" src="/Sandhani1704/Sandhani1704/raw/main/icon-redux.png" />
 <img align="left" alt="Nodejs" width="90px" src="https://user-images.githubusercontent.com/58632996/125951856-102b1f10-c12b-4c73-a8d2-5ba479fb467f.png" />
 <img alt="MongoDB" width="90px" src="https://user-images.githubusercontent.com/58632996/125980165-677df469-1474-4997-ae94-48c33ee1cfab.png" />
 
