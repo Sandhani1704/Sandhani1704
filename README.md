@@ -1,8 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Anna
 
-### I'm junior front-end developer from Moscow, Russia.<br>
-### I create adaptive responsive single-page cross-browser web applications.
-### Focused of frontend (React/TypeScript), also using Redux BEM, SASS, Webpack.
+I'm junior front-end developer from Moscow, Russia.<br>
+I create adaptive responsive single-page cross-browser web applications.<br>
+Focused of frontend (React/TypeScript), also using Redux, BEM, SASS, Webpack.
 
 :zap: What do I use? <br>
 
