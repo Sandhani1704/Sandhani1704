@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Anna!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hi, I'm Anna!
 
 I'm junior front-end developer from Moscow, Russia.<br>
 I create adaptive responsive single-page cross-browser web applications.<br>
